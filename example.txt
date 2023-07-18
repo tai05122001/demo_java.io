@@ -1,0 +1,3 @@
+Đối tượng FileInputStream trong Java sử dụng đường dẫn tuyệt đối (absolute path)
+hoặc đường dẫn tương đối (relative path)
+để đọc nội dung của một tệp tin (file).Tài
